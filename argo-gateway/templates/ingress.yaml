@@ -15,5 +15,5 @@ spec:
       paths:
       - backend:
           serviceName: argocd-server
-          servicePort: http
+          servicePort: 8080
         path: /*
