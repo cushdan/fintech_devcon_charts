@@ -1,5 +1,5 @@
-deployWatchman: true
-deployWatchmanIngress: true
+deployWatchman: false
+deployWatchmanIngress: false
 deployArgoIngress: false
 
 
