@@ -1,4 +1,4 @@
-deployWatchman: false
+deployWatchman: true
 deployWatchmanIngress: false
 deployArgoIngress: false
 
