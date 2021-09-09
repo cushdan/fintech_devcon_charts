@@ -7,7 +7,7 @@ spec:
 
 
 deployWatchman: true
-deployWatchmanIngress: false
-deployArgoIngress: true
+deployWatchmanIngress: true
+deployArgoIngress: false
 
 
